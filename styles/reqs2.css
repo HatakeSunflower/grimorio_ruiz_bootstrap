@@ -4,6 +4,7 @@
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
+    font-family: poppins;
 }
 
 body h1 {
@@ -13,7 +14,6 @@ body h1 {
     display: flex;
     z-index: 3;
     position: fixed;
-    font-family: poppins;
     padding: 10px;
     column-gap: 10px;
     color: white;
@@ -29,6 +29,7 @@ nav {
 }
 
 nav a {
+    text-decoration: none;
     float: right;
     margin-right: 20px;
     line-height: 60px;
@@ -90,6 +91,7 @@ input {
     padding: 57px 65px;
     padding-bottom: 65px;
     display: table-cell;
+    border-radius: 15px;
 }
 
 footer {
