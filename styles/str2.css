@@ -196,6 +196,10 @@ nav:hover {
 	transition: 0.5s;
 }
 
+.seccion-grimorio .grim{
+	transition: 0.5s;
+}
+
 .seccion-grimorio .grim:hover{
 	transform: scale(1.1);
 	transition: 0.5s;
